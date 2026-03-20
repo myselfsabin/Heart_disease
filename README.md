@@ -78,7 +78,7 @@ heart-disease-prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/heart-disease-prediction.git
+git clone https://github.com/myselfsabin/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
@@ -112,8 +112,7 @@ jupyter notebook Heart_disease.ipynb
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: https://github.com/myselfsabin/
 
 ---
 
